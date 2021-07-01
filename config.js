@@ -1,19 +1,34 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Bạn à',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao lại có người đáng yêu thế
+    hihiNFIG = {
+
+2
+
+    introTitle: 'Bạn à',
+
+3
+
+    introDesc: `Trái đất vốn lạ thường
+
+4
+
+    Mà sao lại có người đáng yêu thế
+
+5
+
+    hihi`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'các bạn buộc phải công nhận 1 sự thật là Bích rất cute 😙',
+    desc: 'và đúng là Bích cute thật :)) ',
+    btnYes: 'Of course siêu cute :))',
+    btnNo: 'Không, bạn à :3',
+    question:'Trên thế giới hơn 7 tỉ người tại sao lại có người cute thế',
+    btnReply: 'Gửi cho bạn <3',
+    reply: 'hihi Bích đáng yêu lắm <33333333',
+    mess: 'Mình biết mà 🥰. Cảm ơn nhiều nhiều 😘😘',
+    messDesc: 'Bạn là đứa siêu vô duyên.',
+    btnAccept: 'Xin lỗi :(( ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
