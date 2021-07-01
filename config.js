@@ -3,21 +3,6 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao lại có người đáng yêu thế
     hihiNFIG = {
-
-2
-
-    introTitle: 'Bạn à',
-
-3
-
-    introDesc: `Trái đất vốn lạ thường
-
-4
-
-    Mà sao lại có người đáng yêu thế
-
-5
-
     hihi`,
     btnIntro: 'hihi',
     title: 'các bạn buộc phải công nhận 1 sự thật là Bích rất cute 😙',
